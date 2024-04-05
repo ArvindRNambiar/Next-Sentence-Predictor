@@ -8,8 +8,11 @@ The Next Sentence Predictor project aims to predict the next sentence in a seque
 **Technologies Used:**
 
 TensorFlow
+
 Keras
+
 Pandas
+
 NumPy
 NLTK (Natural Language Toolkit)
 Gensim
