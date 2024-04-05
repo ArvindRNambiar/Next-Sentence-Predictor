@@ -45,4 +45,4 @@ Contributions to this project are welcomed and encouraged. Potential areas for c
 
 4.Bug fixes and optimizations to enhance the performance and reliability of the project.
 
-Documentation improvements to provide clear instructions for users and contributors.
+5.Documentation improvements to provide clear instructions for users and contributors.
