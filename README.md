@@ -7,19 +7,19 @@ The Next Sentence Predictor project aims to predict the next sentence in a seque
 
 **Technologies Used:**
 
-TensorFlow
+1.TensorFlow
 
-Keras
+2.Keras
 
-Pandas
+3.Pandas
 
-NumPy
+4.NumPy
 
-NLTK (Natural Language Toolkit)
+5.NLTK (Natural Language Toolkit)
 
-Gensim
+6.Gensim
 
-Scikit-learn
+7.Scikit-learn
 
 **Key Features:**
 
@@ -37,12 +37,12 @@ Scikit-learn
 
 Contributions to this project are welcomed and encouraged. Potential areas for contribution include:
 
-Enhancements to preprocessing techniques for improved data preparation.
+1.Enhancements to preprocessing techniques for improved data preparation.
 
-Experimentation with different neural network architectures to further improve prediction accuracy.
+2.Experimentation with different neural network architectures to further improve prediction accuracy.
 
-Implementation of additional features or functionalities to extend the capabilities of the next sentence predictor.
+3.Implementation of additional features or functionalities to extend the capabilities of the next sentence predictor.
 
-Bug fixes and optimizations to enhance the performance and reliability of the project.
+4.Bug fixes and optimizations to enhance the performance and reliability of the project.
 
 Documentation improvements to provide clear instructions for users and contributors.
