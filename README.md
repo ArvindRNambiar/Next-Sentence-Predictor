@@ -14,8 +14,11 @@ Keras
 Pandas
 
 NumPy
+
 NLTK (Natural Language Toolkit)
+
 Gensim
+
 Scikit-learn
 
 **Key Features:**
@@ -35,7 +38,11 @@ Scikit-learn
 Contributions to this project are welcomed and encouraged. Potential areas for contribution include:
 
 Enhancements to preprocessing techniques for improved data preparation.
+
 Experimentation with different neural network architectures to further improve prediction accuracy.
+
 Implementation of additional features or functionalities to extend the capabilities of the next sentence predictor.
+
 Bug fixes and optimizations to enhance the performance and reliability of the project.
+
 Documentation improvements to provide clear instructions for users and contributors.
